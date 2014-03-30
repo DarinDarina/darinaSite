@@ -1,0 +1,88 @@
+.head{
+    background-image:url("../images/head.jpg");
+    min-height: 200px;
+    max-height: 250px;
+    background-size: cover;
+    margin-top: 50px ;
+
+}
+
+.foot{
+    background-image: url("../images/footer.jpg");
+    min-height: 200px;
+    max-height: 250px;
+    background-size: cover;
+}
+
+
+
+.otstop{
+    padding-top: 50px;
+}
+
+.otsleft{
+    padding-left: 10%;
+
+}
+
+
+
+
+   .wrapper{
+
+       box-shadow: 0 0 10px rgba(0,0,0,0.5);
+   }
+
+@media (max-width: 800px)
+
+{
+
+/*если ширина экрана меньше 800пкс убираем нахуй карусель*/
+    .wrapper{
+
+        display:none;
+    }
+}
+/*отступ  от праваого края кнопок навбара */
+ul.nav li#pad{
+    margin-right: 20px;
+}
+/*прощрачность навбара*/
+.navs{
+    opacity: 0.80;}
+
+
+/*настройки блоков контента*/
+#firstsection,  #secondsection,  #thirdsection,  #fourtsection
+ {
+    min-height: 500px;
+    background-color: #269abc;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+#firstsection{
+ background-color: #269abc;
+}
+#secondsection{
+
+    background-color: #bc1e33;
+
+}
+
+#thirdsection {
+
+    background-color: #93bc2b;
+
+}
+
+#fourtsection {
+
+    background-color: #00bc48;
+
+}
+#panel{
+     box-shadow: inset 0 0 20px rgba(147, 188, 43, 0.50);
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
