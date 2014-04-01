@@ -60,7 +60,7 @@ ul.nav li#pad{
       box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 #firstsection{
- background-color: #269abc;
+ background-image: url("../images/123.png");
 }
 #secondsection{
 
@@ -70,7 +70,7 @@ ul.nav li#pad{
 
 #thirdsection {
 
-    background-color: #93bc2b;
+    background-image: url("../images/123554.png");
 
 }
 
@@ -86,3 +86,15 @@ ul.nav li#pad{
 
 }
 
+.interval{
+    line-height:50px;
+}
+
+
+.h1{
+    line-height: 60%;
+}
+
+.p{
+    margin-top: 20px;
+}
