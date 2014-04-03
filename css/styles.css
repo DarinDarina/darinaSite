@@ -17,11 +17,11 @@
 
 
 .otstop{
-    padding-top: 50px;
+    padding-top: 0px;
 }
 
 .otsleft{
-    padding-left: 10%;
+    padding-bottom:20px;
 
 }
 
@@ -42,6 +42,10 @@
 
         display:none;
     }
+    .otstop{
+        padding-top: 80px;
+    }
+
 }
 /*отступ  от праваого края кнопок навбара */
 ul.nav li#pad{
@@ -55,7 +59,7 @@ ul.nav li#pad{
 /*настройки блоков контента*/
 #firstsection,  #secondsection,  #thirdsection,  #fourtsection
  {
-    min-height: 500px;
+    min-height: 100px;
     background-color: #269abc;
       box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
