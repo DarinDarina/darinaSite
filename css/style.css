@@ -37,24 +37,24 @@
 .ei-title{
 	position: absolute;
 	right: 40%;
-	margin-right: 20%;
+	margin-right: 0%;
 	top: 30%;
 }
 .ei-title h2, .ei-title h3{
 	text-align: right;
 }
 .ei-title h2{
-	font-size: 40px;
+	font-size: 70px;
 	line-height: 50px;
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
-	color: #b5b5b5;
+	color: #0d36b5;
 }
 .ei-title h3{
 	font-size: 70px;
 	line-height: 70px;
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	color: #000;
 }
 .ei-slider-thumbs{
