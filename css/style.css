@@ -48,12 +48,13 @@
 	line-height: 50px;
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
-	color: #0d36b5;
+	color: #000;
 }
 .ei-title h3{
 	font-size: 70px;
 	line-height: 70px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Playfair Display', serif;
+    font-style: italic;
 	text-transform: lowercase;
 	color: #000;
 }
