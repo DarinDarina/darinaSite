@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277f8036-77c6-45b4-b708-9df067be2697" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/1sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large/2sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/2sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large/3sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/3sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/4sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/5sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/6sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slaid/7sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large/88.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/price.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="darinaSite.iws" />
@@ -43,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="244" column="12" selection-start="9019" selection-end="9019" vertical-scroll-proportion="0.37804878" vertical-offset="3900" max-vertical-offset="4556">
+            <state line="244" column="12" selection-start="9019" selection-end="9019" vertical-scroll-proportion="0.3792049" vertical-offset="3900" max-vertical-offset="4556">
               <folding>
                 <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -324,13 +309,18 @@
       <created>1396876958469</created>
       <updated>1396876958469</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="шрифт&#10;">
+      <created>1396965689533</created>
+      <updated>1396965689533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -345,7 +335,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -570,7 +559,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="244" column="12" selection-start="9019" selection-end="9019" vertical-scroll-proportion="0.37804878" vertical-offset="3900" max-vertical-offset="4556">
+        <state line="244" column="12" selection-start="9019" selection-end="9019" vertical-scroll-proportion="0.3792049" vertical-offset="3900" max-vertical-offset="4556">
           <folding>
             <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
